@@ -1,0 +1,7 @@
+﻿  Book.cpp
+F:\Git仓库\lib-system\libSystem\libSystem\Book.cpp(104,21): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  BookManager.cpp
+F:\Git仓库\lib-system\libSystem\libSystem\BookManager.cpp(206,20): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+F:\Git仓库\lib-system\libSystem\libSystem\BookManager.cpp(208,20): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  正在生成代码...
+  libSystem.vcxproj -> F:\Git仓库\lib-system\libSystem\Debug\libSystem.exe
